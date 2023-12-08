@@ -1,0 +1,17 @@
+{
+"StoreName": "𝙿𝚈𝚄𝚂𝚃𝙾𝚁𝙴",
+  "token": "MTE3Njg5NTQxODMxMTkwNTMzMA.G8U2lS.AqDEcA406t1s9ggMw0vLhmkStWUGLyC0r57ytc",
+    "mongoURI": "mongodb+srv://pyutopia:pyutopia1@pyu.bzosmju.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": ".",
+  "adminIds": ["1136858623763558440", ""],
+  "buylogChannelId": "1169190782385790989", 
+  "stockChannelId": "1169190780380913687",
+  "yourBotId": "1179077312772309115",
+"desiredChannelId": "1169300912704065546",
+"specificUserId": "1169300948863176784",
+  "imageURL": "https://media.discordapp.net/attachments/1159802224730460190/1175442230803189791/static.png?ex=656b3ee2&is=6558c9e2&hm=d25bf009eb1e2446fc55a7120e1f240df2bf61dc8e62522e0a19147a613bf542&",
+  "wlEmoji": "<:WL:1175068111196663839>",
+  "emoji1": "<a:Panahh:1181237512941879296>",
+  "emoji2": "<:Bot:1175068374393430177>",
+  "emoji3": "<:Donation:1175067717678682212>"
+}
